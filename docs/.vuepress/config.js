@@ -11,7 +11,6 @@ export default defineUserConfig({
   head: [
     ["link", { rel: "icon", href: "https://vuejs.press/images/hero.png" }],
   ],
-  dest: "docs/.vuepress/dist/vuepress",
 
   theme: defaultTheme({
     logo: "https://vuejs.press/images/hero.png",
